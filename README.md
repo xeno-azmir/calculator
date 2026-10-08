@@ -427,7 +427,7 @@
 
   <!-- Made by credit -->
   <div class="made-by">
-    Made with ❤️ by <span class="brand">Azmir</span>
+    Made with ❤️ by <span class="brand">HTML</span>
   </div>
 </div>
 
